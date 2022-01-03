@@ -4,4 +4,4 @@
 - Dictionary has some simple features such as:
     - Successor and predecessor
     - Searching and suggestions
-**We need to add some comments**
+**We need to add some comments, test correctness and make better documentation of the project**
