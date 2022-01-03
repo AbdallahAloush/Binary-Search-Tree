@@ -1,4 +1,3 @@
-                                                                //TODO: MUST USE ABSOLUTE FILE PATH
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
