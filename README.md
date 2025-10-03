@@ -23,12 +23,6 @@ Tree height.
 
 Provides feedback whether a word is CORRECT or INCORRECT.
 
-## 📂 Project Structure
-.
-├── main.c                  # Source code
-├── EN-US-Dictionary.txt    # Dictionary word list (one word per line)
-└── README.md               # Project documentation
-
 ## ⚙️ How It Works
 
 The program reads all words from EN-US-Dictionary.txt and inserts them into a Binary Search Tree.
@@ -105,3 +99,4 @@ Improve memory management (freeing nodes on exit).
 GCC or any C compiler.
 
 A dictionary text file (EN-US-Dictionary.txt).
+
